@@ -351,7 +351,7 @@ Firebase
 
 <p>
 
-📧 <b>your-abhisheksenthil18@example.com</b>
+📧 <b>abhisheksenthil18@gmail.com</b>
 
 </p>
 
